@@ -1,0 +1,38 @@
+id: P1A1EFEE5
+initial_creation_type: input
+source_metadata:
+  title: Rongtön Sheja Künrig Series
+  language: fr
+  description: Rongtön Sheja Kunrig (rong ston shes bya kun rig), also known as Shakya
+    Gyaltsen, (shakya rgyal mtshan, 1367-1449) was one of the greatest scholars of
+    the Sakya school, renowned especially for his mastery of the prajñāpāramitā teachings.
+    He founded Nalendra Monastery in 1436.
+  volume:
+    6ac4fe699bb94a2e8d3be01d9871066b:
+      title: 'The Joyous Entrance to the Path to Liberation: How to Practise the Six
+        Transcendent Perfections'
+      parent: Advice
+    a0ac4ad5e06545e3acdecb5d20da59a6:
+      title: 'The Garland of Jewel Ornaments: The Stages of Meditating on the Bodhicaryāvatāra'
+      parent: Bodhicaryāvatāra
+    810f0532d0524c88b73f0993333455ab:
+      title: 'Clarifying the Essence: A Summary of the Instructions on the View of
+        the Middle Way'
+      parent: Middle Way
+    af02c10a31b4442e998fb32df6353957:
+      title: 'Melodious Sound: In Praise of Vulture Peak Mountain'
+      parent: Praise
+    4f89ccbcbb634d4ea293983b2c7d5d3d:
+      title: 'The Sun that Causes the Lotus of Intelligence to Bloom: In Praise of
+        the Lineage of Gurus for the Noble Abhidharma'
+      parent: Praise
+    dee2f42c8c51468b93cbd14baad45bae:
+      title: Elucidating the Essence of the Instructions for Entering the Three Gateways
+        to Liberation
+      parent: Three Gateways to Liberation
+    ec8662e30f6f448ba781783c7c14f31a:
+      title: 'The Excellent Path of the Great Vehicle: How to Meditate on the Three
+        Gateways to Liberation According to the Mahāyāna'
+      parent: Three Gateways to Liberation
+created_at: '2022-03-01T01:24:12.899171'
+last_modified_at: '2022-03-01T01:24:12.899174'
